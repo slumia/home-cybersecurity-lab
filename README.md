@@ -53,10 +53,24 @@ Tasks performed:
 - Observed protocol behavior
 - Practiced basic packet analysis
 
+---
+
+## Windows Security Event Investigation
+
+Performed basic Windows security log analysis using Event Viewer to investigate failed authentication attempts and review security auditing behavior in a Windows environment.
+
+Tasks performed:
+- Accessed Windows Security logs
+- Filtered events using Event ID 4625
+- Investigated failed authentication attempts
+- Reviewed Windows auditing configuration
+- Compared local and domain authentication behavior
+
 ### Screenshot
 
 ![Raspberry Pi Terminal](screenshots/raspberry-pi-linux-terminal.png)
 ![Wireshark DNS Analysis](screenshots/wireshark-dns-analysis.png)
+![Windows Event ID 4625](screenshots/windows-eventid-4625-failed-login.png)
 
 ---
 
