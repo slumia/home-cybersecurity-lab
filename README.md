@@ -1,5 +1,10 @@
 # Home Cybersecurity Lab
 
+![Linux](https://img.shields.io/badge/Linux-Learning-blue)
+![Networking](https://img.shields.io/badge/Networking-Wireshark-green)
+![Security](https://img.shields.io/badge/Cybersecurity-HomeLab-red)
+![Raspberry Pi](https://img.shields.io/badge/RaspberryPi-Lab-C51A4A)
+
 ## Overview
 
 This repository documents my personal cybersecurity and IT home lab environment. The purpose of this lab is to gain hands-on experience with networking, Linux administration, Windows systems, log analysis, and security monitoring.
