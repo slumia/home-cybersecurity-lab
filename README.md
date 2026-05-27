@@ -35,9 +35,23 @@ Tasks performed:
 - Validated Linux system information
 - Tested remote terminal access
 
+---
+
+## Network Traffic Analysis with Wireshark
+
+Used Wireshark to capture and analyze live network traffic from a local workstation. Applied protocol filtering to inspect DNS traffic and observe communication between client devices and external services.
+
+Tasks performed:
+- Captured live packets
+- Filtered DNS traffic
+- Reviewed source and destination addresses
+- Observed protocol behavior
+- Practiced basic packet analysis
+
 ### Screenshot
 
 ![Raspberry Pi Terminal](screenshots/raspberry-pi-linux-terminal.png)
+![Wireshark DNS Analysis](screenshots/wireshark-dns-analysis.png)
 
 ---
 
