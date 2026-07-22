@@ -4,7 +4,7 @@ This repository documents the hands-on cybersecurity lab I built to strengthen m
 
 ## Lab Architecture
 
-![Network Diagram](network-diagram/homelab-network-diagram.png)
+![Network Diagram](network-diagram/screenshots/homelab-network-diagram.png)
 
 ## Projects
 
