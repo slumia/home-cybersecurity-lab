@@ -1,4 +1,4 @@
-# Raspberry Pi Security Lab
+# Linux Security Lab
 
 ## Overview
 
