@@ -44,4 +44,4 @@ This diagram illustrates the architecture of the cybersecurity home lab used thr
 
 ## Diagram
 
-![Home Lab](screenshots/home-lab-network-diagram.png)
+![Home Lab](screenshots/homelab-network-diagram.png)
