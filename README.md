@@ -43,7 +43,7 @@ A Raspberry Pi configured as a Linux security appliance.
 - Suricata IDS
 - Pi-hole DNS Sinkhole
 
-➡️ [View Linux Security Lab](linux-security-appliance-lab/)
+➡️ [View Raspberry Pi Lab](raspberry-pi-lab/)
 
 ---
 
